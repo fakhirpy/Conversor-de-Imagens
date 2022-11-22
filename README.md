@@ -1,5 +1,5 @@
 # Conversor de Imagens
-Conversor de arquivos feito em python. 
+Conversor de imagens feito em python. 
 
 # Converte JPG to PNG / PNG to JPG / JPG to WEBP / WEBP to JPEG / PNG to WEBP / WEBP to PNG
 
